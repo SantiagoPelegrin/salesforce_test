@@ -7,7 +7,7 @@ Dicho de otra manera: este proyecto es el guión de un test.
 
 ## dTakers School. Caso de uso
 
-![dTakers School](http://github.com/dtakers/salesforce-spring18-assessment/dtakers_school.png)
+![dTakers School](dtakers_school.png)
 
 Eres el nuevo administrador de dTakers School, un centro educativo líder en enseñanza relacionada con las tecnologías de la información.
 
